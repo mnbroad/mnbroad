@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mnbroad
-- 👀 I’m interested in 🚴, 🎮, and 🪚
+- 👀 I’m interested in road cycling, weightlifting, woodworking, mechanical keyboards, and video games
 - 🌱 I’m currently learning Rust
 - 📫 How to reach me Mark.Broadhead@churchofjesuschrist.org
 - 😄 Pronouns: he/him
